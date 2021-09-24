@@ -9,7 +9,7 @@ or observers.
 
 The following people have global administrator rights:
 
-* q66 <q66@chimera-linux.org>
+* q66 <<q66@chimera-linux.org>>
 
 The following people have commit access rights in one or more parts of the
 project:
